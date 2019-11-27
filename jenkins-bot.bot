@@ -1,0 +1,18 @@
+{
+    "name": "jenkins-bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "674424bf-e13c-4ab4-b31b-3ecdfa04aa8b",
+            "appPassword": ">qOc?1L&N1].jR6[qhnZ^]JV4H/9}p",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1c520840-108e-11ea-b1ee-d7d58c1df7d3",
+            "name": "http://localhost:3978"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/somayajulaas/Downloads/jenkins-bot04-src/jenkins-bot.bot"
+}

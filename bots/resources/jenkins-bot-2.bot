@@ -1,0 +1,18 @@
+{
+    "name": "jenkins-bot-2",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "5755a2b0-108b-11ea-b1ee-d7d58c1df7d3",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/somayajulaas/Downloads/jenkins-bot04-src/bots/resources/jenkins-bot-2.bot"
+}
