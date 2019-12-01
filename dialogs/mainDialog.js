@@ -82,9 +82,10 @@ class MainDialog extends ComponentDialog {
         case 'RunAJenkinsBuild': {
             const getJenkinsMessageText = 'Started the jenkins build';
             var options = {
-                host: 'ec2-184-73-142-220.compute-1.amazonaws.com', 
+                //host: 'ec2-184-73-142-220.compute-1.amazonaws.com',
+                host: '104.45.155.74', 
                 port: 8080,
-                path: '/job/Build02/build?delay=0sec', 
+                path: '/job/Build03/build?delay=0sec', 
                 method: 'GET',
                  headers: {
                      'Content-Type': 'application/json'
