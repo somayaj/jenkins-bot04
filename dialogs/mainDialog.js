@@ -86,7 +86,7 @@ class MainDialog extends ComponentDialog {
                 host: '104.45.155.74', 
                 port: 8080,
                 path: '/job/Build03/build?delay=0sec', 
-                method: 'GET',
+                method: 'POST',
                  headers: {
                      'Content-Type': 'application/json'
                  }
